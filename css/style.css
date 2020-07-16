@@ -1,6 +1,9 @@
 .header{
     width:100%;
     height: 250px;
-    background-color: blanchedalmond;
-    color: yellow;
+    background-color: #c3d8e7;
+    color: #b86223;
+    border-color: #1d1295;
 }
+
+/* Orange: b86223, Blue: 1d1295, Off-white-blue: c3d8e7 */
