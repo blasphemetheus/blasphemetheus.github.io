@@ -35,6 +35,37 @@ p {
     font-family: verdana;
     font-size: 20px;
     color: darkslategrey;
+    background-color: rgba(184, 98, 35, .15)
 }
+
+#funky {
+    color: olivedrab;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.comic-sans {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.big-boi {
+
+}
+
+.psychedelic {
+    background-image: url("psych12.jpeg")
+}
+
+.psych-corn {
+    background-image: url("psych-corn.png")
+}
+
+.psych-mush {
+    background-image: url("psych-mush.png")
+}
+
+.on-yellow {
+    background-color: yellow;
+}
+
 
 /* Orange: b86223, Blue: 1d1295, Off-white-blue: c3d8e7 */
